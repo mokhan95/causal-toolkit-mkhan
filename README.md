@@ -1,4 +1,4 @@
-# Causal Toolkit MKhan
+# Causal Toolkit
 
 A Python package for causal inference methods including RCT analysis, propensity score methods, and meta-learners.
 

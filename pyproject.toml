@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "causal-toolkit-mkhan"
 version = "0.1.0"
-description = "A Python package for causal inference methods including ATE estimation, propensity score methods, and meta-learners"
+description = "A Python package for causal inference methods including RCT analysis, propensity score methods, and meta-learners."
 readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
@@ -49,7 +49,6 @@ dev = [
 Homepage = "https://github.com/mokhan95/causal-toolkit-mkhan"
 Documentation = "https://github.com/mokhan95/causal-toolkit-mkhan#readme"
 Repository = "https://github.com/mokhan95/causal-toolkit-mkhan"
-"Bug Tracker" = "https://github.com/mokhan95/causal-toolkit-mkhan/issues"
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
