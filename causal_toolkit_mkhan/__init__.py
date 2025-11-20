@@ -1,4 +1,4 @@
-"""Causal Toolkit MKhan - A Python package for causal inference methods"""
+"""Causal Toolkit - A Python package for causal inference methods"""
 
 __version__ = "0.1.0"
 

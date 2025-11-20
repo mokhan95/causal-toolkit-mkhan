@@ -49,6 +49,7 @@ dev = [
 Homepage = "https://github.com/mokhan95/causal-toolkit-mkhan"
 Documentation = "https://github.com/mokhan95/causal-toolkit-mkhan#readme"
 Repository = "https://github.com/mokhan95/causal-toolkit-mkhan"
+"Bug Tracker" = "https://github.com/mokhan95/causal-toolkit-mkhan/issues"
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
