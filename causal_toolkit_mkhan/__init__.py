@@ -1,6 +1,6 @@
 """Causal Toolkit - A Python package for causal inference methods"""
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 # Import key functions for easy access
 from .rct import calculate_ate_ci, calculate_ate_pvalue
