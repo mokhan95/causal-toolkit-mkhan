@@ -1,15 +1,22 @@
 # Causal Toolkit
 
 [![Tests](https://github.com/mokhan95/causal-toolkit-mkhan/workflows/Tests/badge.svg)](https://github.com/mokhan95/causal-toolkit-mkhan/actions)
+[![PyPI version](https://badge.fury.io/py/causal-toolkit-mkhan.svg)](https://pypi.org/project/causal-toolkit-mkhan/)
 
 A Python package for causal inference methods including RCT analysis, propensity score methods, and meta-learners.
 
 ## Installation
 
 ```bash
+pip install causal-toolkit-mkhan
+```
+
+### Development Installation
+
+```bash
 git clone https://github.com/mokhan95/causal-toolkit-mkhan.git
 cd causal-toolkit-mkhan
-uv pip install -e .
+pip install -e .
 ```
 
 ## Usage
